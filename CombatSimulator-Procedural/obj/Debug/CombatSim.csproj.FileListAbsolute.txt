@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\CombatSim\CombatSim\bin\Debug\CombatSim.exe.config
+C:\Users\Technologist SP\Documents\GitHub\CombatSim\CombatSim\bin\Debug\CombatSim.exe
+C:\Users\Technologist SP\Documents\GitHub\CombatSim\CombatSim\bin\Debug\CombatSim.pdb
+C:\Users\Technologist SP\Documents\GitHub\CombatSim\CombatSim\obj\Debug\CombatSim.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\CombatSim\CombatSim\obj\Debug\CombatSim.exe
+C:\Users\Technologist SP\Documents\GitHub\CombatSim\CombatSim\obj\Debug\CombatSim.pdb
