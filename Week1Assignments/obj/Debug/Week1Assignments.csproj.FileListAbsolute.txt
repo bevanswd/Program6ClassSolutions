@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\Week1Assignments\Week1Assignments\bin\Debug\Week1Assignments.exe.config
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\Week1Assignments\Week1Assignments\obj\Debug\Week1Assignments.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\Week1Assignments\Week1Assignments\bin\Debug\Week1Assignments.exe
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\Week1Assignments\Week1Assignments\bin\Debug\Week1Assignments.pdb
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\Week1Assignments\Week1Assignments\obj\Debug\Week1Assignments.exe
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\Week1Assignments\Week1Assignments\obj\Debug\Week1Assignments.pdb

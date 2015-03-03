@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\Week1Review\Week1Review\bin\Debug\Week1Review.exe.config
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\Week1Review\Week1Review\obj\Debug\Week1Review.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\Week1Review\Week1Review\bin\Debug\Week1Review.exe
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\Week1Review\Week1Review\bin\Debug\Week1Review.pdb
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\Week1Review\Week1Review\obj\Debug\Week1Review.exe
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\Week1Review\Week1Review\obj\Debug\Week1Review.pdb

@@ -1,0 +1,5 @@
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\ListsAndArraysNEW\ListsAndArraysNEW\bin\Debug\ListsAndArraysNEW.exe.config
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\ListsAndArraysNEW\ListsAndArraysNEW\bin\Debug\ListsAndArraysNEW.exe
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\ListsAndArraysNEW\ListsAndArraysNEW\bin\Debug\ListsAndArraysNEW.pdb
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\ListsAndArraysNEW\ListsAndArraysNEW\obj\Debug\ListsAndArraysNEW.exe
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\ListsAndArraysNEW\ListsAndArraysNEW\obj\Debug\ListsAndArraysNEW.pdb

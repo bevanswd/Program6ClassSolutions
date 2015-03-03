@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\GroupSort\GroupSort\bin\Debug\GroupSort.exe.config
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\GroupSort\GroupSort\bin\Debug\GroupSort.exe
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\GroupSort\GroupSort\bin\Debug\GroupSort.pdb
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\GroupSort\GroupSort\obj\Debug\GroupSort.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\GroupSort\GroupSort\obj\Debug\GroupSort.exe
+C:\Users\Technologist SP\Documents\GitHub\Program6ClassSolutions\GroupSort\GroupSort\obj\Debug\GroupSort.pdb

@@ -1,0 +1,8 @@
+C:\Users\Technologist SP\Desktop\Week3CodeChallenge-master\Week3CodeChallenge\Week3CodeChallenge\bin\Debug\Week3CodeChallenge.exe.config
+C:\Users\Technologist SP\Desktop\Week3CodeChallenge-master\Week3CodeChallenge\Week3CodeChallenge\bin\Debug\Week3CodeChallenge.exe
+C:\Users\Technologist SP\Desktop\Week3CodeChallenge-master\Week3CodeChallenge\Week3CodeChallenge\bin\Debug\Week3CodeChallenge.pdb
+C:\Users\Technologist SP\Desktop\Week3CodeChallenge-master\Week3CodeChallenge\Week3CodeChallenge\bin\Debug\nunit.framework.dll
+C:\Users\Technologist SP\Desktop\Week3CodeChallenge-master\Week3CodeChallenge\Week3CodeChallenge\bin\Debug\nunit.framework.xml
+C:\Users\Technologist SP\Desktop\Week3CodeChallenge-master\Week3CodeChallenge\Week3CodeChallenge\obj\Debug\Week3CodeChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Desktop\Week3CodeChallenge-master\Week3CodeChallenge\Week3CodeChallenge\obj\Debug\Week3CodeChallenge.exe
+C:\Users\Technologist SP\Desktop\Week3CodeChallenge-master\Week3CodeChallenge\Week3CodeChallenge\obj\Debug\Week3CodeChallenge.pdb

@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe.config
+C:\Users\Technologist SP\Documents\GitHub\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe
+C:\Users\Technologist SP\Documents\GitHub\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.pdb
+C:\Users\Technologist SP\Documents\GitHub\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.exe
+C:\Users\Technologist SP\Documents\GitHub\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.pdb

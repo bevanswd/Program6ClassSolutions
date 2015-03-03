@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\bEvans_Week2CodeChallenge\bEvans_Week2CodeChallenge\bin\Debug\bEvans_Week2CodeChallenge.exe.config
+C:\Users\Technologist SP\Documents\GitHub\bEvans_Week2CodeChallenge\bEvans_Week2CodeChallenge\bin\Debug\bEvans_Week2CodeChallenge.exe
+C:\Users\Technologist SP\Documents\GitHub\bEvans_Week2CodeChallenge\bEvans_Week2CodeChallenge\bin\Debug\bEvans_Week2CodeChallenge.pdb
+C:\Users\Technologist SP\Documents\GitHub\bEvans_Week2CodeChallenge\bEvans_Week2CodeChallenge\obj\Debug\bEvans_Week2CodeChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\bEvans_Week2CodeChallenge\bEvans_Week2CodeChallenge\obj\Debug\bEvans_Week2CodeChallenge.exe
+C:\Users\Technologist SP\Documents\GitHub\bEvans_Week2CodeChallenge\bEvans_Week2CodeChallenge\obj\Debug\bEvans_Week2CodeChallenge.pdb
